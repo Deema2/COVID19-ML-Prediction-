@@ -1,0 +1,42 @@
+.DottedBox {
+    /* border: 5px dotted #5691C1; */
+    background-image: url("./backk.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 100% 100%;
+    height: 100%;
+    width:100%;
+    
+    
+  }
+
+  .text{
+      color:#527AB7
+  }
+
+  .content{
+    position: absolute;
+    left:15%;
+    top:20%
+  }
+
+  .button{
+    background : #527AB7;
+    /* background : rgba(67, 100, 168, 1); */
+    border-radius : 81px;
+    font-family : Myriad Pro;
+    font-size : 22px;
+    color : #FFFFFF;
+    color : rgb(255, 255, 255);
+    width:90%
+      
+  }
+
+  .img{
+      width:30%;
+      height: 30%;
+  }
+
+  .form{
+      flex-direction: row;
+  }
